@@ -16,6 +16,7 @@ Macht die Aufgabe gemeinsam, Schritt für Schritt.
    1. Vergleicht erneut die commits von seinem eigenen Branch und dem main branch
    1. Pusht den gemergeten branch
    1. Stelle über github einen PullRequest und merged diesen.
+   2. changes added
 
 
 7. Person B :
